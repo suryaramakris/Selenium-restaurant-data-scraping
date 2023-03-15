@@ -1,0 +1,365 @@
+,names,ratings,cost,dish,deliveryin_min,order
+0,Ovenstory Pizza,3.9,₹300 for one,"Pizza, Fast Food",31 min,2100+ orders placed from here recently
+1,Bakingo,4.2,₹300 for one,"Bakery, Desserts",26 min,4175+ orders placed from here recently
+2,Meghana Foods,4.3,₹300 for one,"Biryani, Andhra, North Indian, Seafood",34 min,30325+ orders placed from here recently
+3,McDonald's,3.9,₹200 for one,"Burger, Fast Food",22 min,7625+ orders placed from here recently
+4,Pizza Hut,3.6,₹200 for one,"Pizza, Fast Food, Desserts, Beverages",27 min,5150+ orders placed from here recently
+5,Udupi Palace,3.9,₹200 for one,"South Indian, North Indian, Street Food, Fast Food, Chinese, Shake",21 min,13775+ orders placed from here recently
+6,Families Food Court,3.8,₹200 for one,"North Indian, Chinese, Biryani, Mughlai, Rolls, Seafood, Kebab",21 min,5800+ orders placed from here recently
+7,California Burrito,4.1,₹200 for one,"Mexican, Fast Food, Beverages",19 min,9850+ orders placed from here recently
+8,HSR Fresh Cane Juice,3.7,₹200 for one,"Juices, Beverages",28 min,125+ orders placed from here recently
+9,Onesta,3.7,₹200 for one,"Pizza, Pasta, Sandwich, Fast Food, Desserts, Beverages",22 min,2450+ orders placed from here recently
+10,Kapoor's Cafe,3.9,₹200 for one,"North Indian, Street Food, Desserts, Beverages",22 min,8425+ orders placed from here recently
+11,Szechuan Dragon,4.0,₹200 for one,"Chinese, Asian, Thai, Momos",26 min,7450+ orders placed from here recently
+12,Rajasthani Taj Restaurant,3.0,₹200 for one,"North Indian, Chinese, Street Food, Rajasthani",45 min,6300+ orders placed from here recently
+13,Biriyani Zone,4.0,₹200 for one,"Biryani, North Indian, Mughlai, Chinese, Kebab, Seafood, Desserts",22 min,5300+ orders placed from here recently
+14,Sharief Bhai,3.8,₹200 for one,"Biryani, Mughlai, Kebab, Afghan, Street Food, Beverages, Desserts",29 min,9200+ orders placed from here recently
+15,Donne Biriyani House,3.6,₹150 for one,"Biryani, South Indian",16 min,11000+ orders placed from here recently
+16,Falahaar & Kota Kachori,3.7,₹150 for one,"North Indian, Rajasthani, Fast Food, Mithai, Beverages, Desserts",20 min,9225+ orders placed from here recently
+17,Biryani King,3.5,₹150 for one,Biryani,36 min,2025+ orders placed from here recently
+18,Kerala Ithaa's,3.6,₹150 for one,"Kerala, South Indian, Seafood, Biryani, Chinese, Beverages",16 min,2450+ orders placed from here recently
+19,Nandhana Palace,4.0,₹300 for one,"Biryani, Andhra, North Indian, Chinese, Mughlai, South Indian, Desserts, Beverages",37 min,6125+ orders placed from here recently
+20,Imperio Restaurant,3.5,₹300 for one,"North Indian, Biryani, Arabian, Chinese, Kebab, Beverages, Juices, Sichuan",36 min,3200+ orders placed from here recently
+21,Polar Bear,4.1,₹300 for one,"Ice Cream, Desserts, Bakery",14 min,1100+ orders placed from here recently
+22,Chickpet Donne Biryani House,3.9,₹300 for one,"Biryani, South Indian, Chinese",46 min,1100+ orders placed from here recently
+23,Kannur Food Kitchen,3.7,₹150 for one,"South Indian, Biryani, Chinese, Arabian, Beverages, Shake",40 min,38925+ orders placed from here recently
+24,Andhra Gunpowder,4.2,₹150 for one,"Andhra, Biryani, South Indian, Desserts, Beverages, Hyderabadi",22 min,4800+ orders placed from here recently
+25,Behrouz Biryani,4.1,₹150 for one,"Biryani, Kebab, North Indian",19 min,1700+ orders placed from here recently
+26,EasyBites by Empire,4.0,₹150 for one,"Burger, Fast Food, Beverages",26 min,4050+ orders placed from here recently
+27,Taco Bell,3.9,₹150 for one,"Mexican, Wraps, Fast Food",20 min,6175+ orders placed from here recently
+28,NIC Ice Creams,4.4,₹150 for one,Ice Cream,15 min,2875+ orders placed from here recently
+29,Aromas Of Biryani,3.9,₹150 for one,"Biryani, North Indian, Chinese, Mughlai, Kebab, Seafood, Ice Cream, Beverages",33 min,12725+ orders placed from here recently
+30,Dindigul Thalappakatti,4.0,₹150 for one,"Biryani, North Indian, South Indian, Chinese, Seafood, Beverages",21 min,2400+ orders placed from here recently
+31,Wendy's Burgers,3.7,₹200 for one,"Burger, Fast Food, American",36 min,2850+ orders placed from here recently
+32,Anand Sweets And Savouries,4.2,₹200 for one,"Mithai, Street Food, Beverages, Desserts",33 min,9850+ orders placed from here recently
+33,Rolls On Wheels,4.2,₹200 for one,"Rolls, Fast Food, Chinese",23 min,6550+ orders placed from here recently
+34,Pizza @99,3.3,₹200 for one,"Pizza, Fast Food",37 min,575+ orders placed from here recently
+35,Punjabi Nawabi,3.9,₹200 for one,"North Indian, Biryani, Mughlai, Chinese, Kebab",26 min,12125+ orders placed from here recently
+36,Chulha Chauki Da Dhaba,3.9,₹200 for one,"North Indian, Chinese, Kebab, Mughlai, Biryani, Beverages",42 min,5225+ orders placed from here recently
+37,"Frozen Bottle - Milkshakes, Desserts and Ice Cream",4.0,₹200 for one,"Beverages, Shake, Desserts, Ice Cream",26 min,450+ orders placed from here recently
+38,The Pizza Bakery,4.0,₹200 for one,"Pizza, Pasta, Italian, Continental, Desserts, Beverages",44 min,3750+ orders placed from here recently
+39,Baskin Robbins,4.5,₹150 for one,"Ice Cream, Desserts, Beverages",17 min,1500+ orders placed from here recently
+40,New Udupi Grand,4.0,₹150 for one,"South Indian, North Indian, Street Food, Beverages, Chinese, Shake",29 min,8300+ orders placed from here recently
+41,Kolkata Kathi Rolls,3.9,₹150 for one,"Rolls, Biryani, Chinese, North Indian, Sichuan",49 min,10225+ orders placed from here recently
+42,Smoor,4.4,₹150 for one,"Bakery, Desserts",19 min,2800+ orders placed from here recently
+43,Pathaan Sir,3.9,₹150 for one,"Rolls, Fast Food, North Indian, Chinese, Momos",16 min,4850+ orders placed from here recently
+44,Donne Biryani Mane,3.2,₹150 for one,"North Indian, Biryani",22 min,625+ orders placed from here recently
+45,Anjappar,3.9,₹150 for one,"South Indian, Chettinad, Biryani, Seafood, Chinese, North Indian, Desserts, Beverages",21 min,2400+ orders placed from here recently
+46,Arabian Shawarma,3.8,₹150 for one,"Shawarma, Fast Food, Beverages",30 min,1300+ orders placed from here recently
+47,Shanghai Court,4.1,₹250 for one,"Chinese, Thai, Sichuan, Seafood, Beverages, Desserts",44 min,2650+ orders placed from here recently
+48,Kataria's,3.5,₹250 for one,"North Indian, Biryani, Beverages",32 min,1850+ orders placed from here recently
+49,UBQ By Barbeque Nation,3.6,₹250 for one,"North Indian, BBQ, Chinese, Street Food, Kebab, Beverages, Desserts",31 min,475+ orders placed from here recently
+50,Asha Sweet Center,4.0,₹250 for one,"Mithai, Bakery, Desserts",23 min,375+ orders placed from here recently
+51,Keventers - Milkshakes & Desserts,4.1,₹250 for one,"Shake, Beverages, Desserts",15 min,1475+ orders placed from here recently
+52,Swad Punjab Da,4.2,₹250 for one,North Indian,34 min,15750+ orders placed from here recently
+53,WOW! China,3.9,₹250 for one,"Chinese, Rolls",28 min,1525+ orders placed from here recently
+54,Punjabi Nukkad Pure Veg,3.8,₹250 for one,"North Indian, Chinese, Mughlai",27 min,14000+ orders placed from here recently
+55,99 Varieties Dosa & Pav Bhaji,3.6,₹100 for one,South Indian,20 min,2900+ orders placed from here recently
+56,Zomoz - The Momo Company,4.0,₹100 for one,"Momos, Fast Food",35 min,550+ orders placed from here recently
+57,99 Variety Dosa & Pav Bhaji,3.7,₹100 for one,"South Indian, Maharashtrian",15 min,7625+ orders placed from here recently
+58,Sri Srinivas Pork Hotel,3.4,₹100 for one,Fast Food,37 min,1925+ orders placed from here recently
+59,Muthashy's,4.1,₹100 for one,"Kerala, South Indian, Chinese, Sichuan",32 min,14375+ orders placed from here recently
+60,Adiga's,4.1,₹100 for one,"South Indian, North Indian, Chinese, Street Food, Desserts, Ice Cream, Beverages",20 min,4400+ orders placed from here recently
+61,Aubree,4.1,₹100 for one,"Bakery, Desserts, Italian, Thai, Fast Food",26 min,1275+ orders placed from here recently
+62,Cream Stone Ice Cream,4.1,₹100 for one,"Ice Cream, Desserts, Beverages, Shake",16 min,1600+ orders placed from here recently
+63,Chicken County Restaurant,4.2,₹150 for one,"North Indian, Chinese, Mughlai, Seafood, Fast Food, Biryani, Beverages",45 min,2725+ orders placed from here recently
+64,Hotel Salam,3.8,₹150 for one,"Lebanese, Kebab, Rolls, South Indian",20 min,2775+ orders placed from here recently
+65,Krishna Kuteera,4.0,₹150 for one,"South Indian, North Indian, Chinese, Fast Food, Street Food, Beverages, Desserts, Shake",50 min,7450+ orders placed from here recently
+66,Momoz,3.6,₹150 for one,"Chinese, Momos, Seafood, Sichuan",33 min,975+ orders placed from here recently
+67,New Punjabi Hotel,3.6,₹150 for one,"North Indian, Chinese",39 min,2700+ orders placed from here recently
+68,Khanna's,3.9,₹150 for one,"North Indian, Mughlai",33 min,4300+ orders placed from here recently
+69,Basmati Biriyani Nation,3.7,₹150 for one,"Biryani, Mughlai, Fast Food, Desserts",28 min,50+ orders placed from here recently
+70,Jose Mess,4.2,₹150 for one,"Kerala, South Indian, Biryani",32 min,7675+ orders placed from here recently
+71,Donne Biryani Palace,3.1,₹200 for one,"Biryani, South Indian, North Indian, Chinese",31 min,1300+ orders placed from here recently
+72,Auntie Fung's,3.9,₹200 for one,"Asian, Thai, Chinese, Vietnamese, Japanese, Indonesian, Korean, Burmese",42 min,2250+ orders placed from here recently
+73,Bucket Biryani,3.7,₹200 for one,"Biryani, North Indian, Chinese, Mughlai, Kebab",22 min,500+ orders placed from here recently
+74,Mealful Rolls - India's Biggest Rolls,4.1,₹200 for one,"Rolls, North Indian, Desserts",30 min,250+ orders placed from here recently
+75,Rang De Basanti Dhaba,3.8,₹200 for one,"North Indian, Seafood, Mughlai, Desserts",56 min,3075+ orders placed from here recently
+76,Estaa Sweets,4.0,₹200 for one,"Mithai, Street Food, Desserts",15 min,1475+ orders placed from here recently
+77,Mr. Shawarma & Miss Grills,4.0,₹200 for one,Lebanese,24 min,1850+ orders placed from here recently
+78,Sangam Sweets,4.0,₹200 for one,"Mithai, Street Food, Fast Food",33 min,950+ orders placed from here recently
+79,1947,3.6,₹300 for one,"North Indian, Beverages, Desserts",48 min,225+ orders placed from here recently
+80,The Dessert Zone,3.9,₹300 for one,"Desserts, Bakery",18 min,400+ orders placed from here recently
+81,Cakebuy,4.1,₹300 for one,Bakery,35 min,5375+ orders placed from here recently
+82,Biryani Pot,3.9,₹300 for one,"Biryani, North Indian, Chinese, Hyderabadi, Andhra, Wraps, Sichuan",30 min,4875+ orders placed from here recently
+83,IBC - Indian Biryani Company,4.0,₹250 for one,"Biryani, North Indian, Chinese, Desserts, Beverages",18 min,5375+ orders placed from here recently
+84,Brik Oven,4.1,₹250 for one,"Pizza, Cafe, Italian, Fast Food, Desserts, Beverages, Shake",51 min,1825+ orders placed from here recently
+85,Crusto's - Cheese Burst Pizza,3.9,₹250 for one,Pizza,33 min,450+ orders placed from here recently
+86,Odia Dine,3.8,₹250 for one,"North Indian, Odia",40 min,5150+ orders placed from here recently
+87,Delhi Base Sri Food Court,3.9,₹100 for one,"North Indian, Chinese",46 min,4025+ orders placed from here recently
+88,Sandwich Guru,4.2,₹100 for one,"Fast Food, Sandwich, Beverages, Ice Cream, Shake",13 min,3975+ orders placed from here recently
+89,Cake N Chef,3.7,₹100 for one,Bakery,37 min,1100+ orders placed from here recently
+90,Tharavadu Malabar Biryani,3.3,₹100 for one,"Kerala, Biryani, South Indian, North Indian, Seafood",26 min,300+ orders placed from here recently
+91,Paris Panini - Gourmet Sandwiches,4.2,₹300 for one,"French, Continental, Panini, Sandwich, Desserts, Beverages",42 min,2600+ orders placed from here recently
+92,Nandanam Restaurant,3.8,₹300 for one,"Kerala, South Indian, Chinese",48 min,5700+ orders placed from here recently
+93,Taaka Chinese,3.7,₹300 for one,"Chinese, Asian, Oriental",23 min,150+ orders placed from here recently
+94,Tandoor And Spice,4.0,₹300 for one,"North Indian, Chinese, Hyderabadi, Sichuan, Biryani",48 min,3025+ orders placed from here recently
+95,Punjabites By Empire,3.7,₹300 for one,"North Indian, Mughlai, Biryani, Desserts, Beverages",44 min,300+ orders placed from here recently
+96,Khan Saheb Grills And Rolls,3.6,₹300 for one,"North Indian, Rolls, Kebab, Mughlai, Biryani, Beverages",33 min,1875+ orders placed from here recently
+97,Singh Da Punjabi Dhaba,3.9,₹300 for one,"North Indian, Biryani",23 min,1125+ orders placed from here recently
+98,Mirchi Maharaj,4.0,₹300 for one,"Chinese, North Indian, Biryani, Seafood, Mughlai, Sichuan, BBQ, Andhra",25 min,700+ orders placed from here recently
+99,New Kabab Zone,4.0,₹150 for one,"North Indian, Chinese, BBQ, Sichuan",38 min,750+ orders placed from here recently
+100,Kolkata Durbar,3.7,₹150 for one,"Biryani, Rolls, Mughlai, North Indian",37 min,1875+ orders placed from here recently
+101,Udupi Nalapaka,4.1,₹150 for one,"South Indian, North Indian, Chinese, Shake",38 min,8950+ orders placed from here recently
+102,Peetuk,3.9,₹150 for one,"Bengali, Biryani, Rolls",46 min,2975+ orders placed from here recently
+103,NOTO - Healthy Ice Cream,4.3,₹150 for one,"Ice Cream, Mithai, Desserts",28 min,825+ orders placed from here recently
+104,Kabab Mirchi,3.9,₹150 for one,"North Indian, Mughlai, Chinese",45 min,2025+ orders placed from here recently
+105,The Momo Co.,3.7,₹150 for one,"Momos, Chinese, Desserts, Beverages",20 min,525+ orders placed from here recently
+106,Bake and Juice,3.7,₹150 for one,"Arabian, Sandwich, Burger, Biryani, Lebanese, Beverages, Juices, Shake",40 min,4600+ orders placed from here recently
+107,ZAZA 22 Spice Biryani,4.2,₹250 for one,"Biryani, North Indian, Mughlai, Desserts, Beverages",30 min,Follows all Max Safety measures to ensure your food is safe
+108,Crispy Studio,4.2,₹250 for one,"Burger, Fast Food, Wraps, Biryani",53 min,12100+ orders placed from here recently
+109,Kunafa World,4.3,₹250 for one,Desserts,39 min,2475+ orders placed from here recently
+110,The ThickShake Factory,4.0,₹250 for one,"Beverages, American",18 min,2450+ orders placed from here recently
+111,Abhiruchi Hotel,3.6,₹250 for one,"Andhra, Biryani, North Indian, Chinese",32 min,3050+ orders placed from here recently
+112,6am Biryani,3.8,₹250 for one,"Biryani, South Indian",44 min,1225+ orders placed from here recently
+113,Puchkas,3.8,₹250 for one,"Street Food, North Indian, Fast Food",39 min,2025+ orders placed from here recently
+114,Shanthi Sagar,3.7,₹250 for one,"South Indian, North Indian, Chinese, Desserts, Beverages, Shake",50 min,1925+ orders placed from here recently
+115,ITC Master Chef Creations,4.1,₹350 for one,"North Indian, Biryani, Mughlai, Rolls, Kebab, Desserts, Modern Indian",25 min,1525+ orders placed from here recently
+116,The Meal Plate,4.1,₹350 for one,North Indian,52 min,2950+ orders placed from here recently
+117,C. K. Mega Hot Food,4.0,₹350 for one,"Chinese, Seafood, Sichuan",34 min,8500+ orders placed from here recently
+118,Hiyar Majhe Kolkata,3.9,₹350 for one,"Bengali, North Indian, Chinese, Biryani",36 min,3425+ orders placed from here recently
+119,Ovenstore Pizza,3.1,₹200 for one,"Pizza, Fast Food",47 min,2000+ orders placed from here recently
+120,Carlos Cakes,2.9,₹200 for one,Bakery,31 min,Follows all Max Safety measures to ensure your food is safe
+121,Itminaan Matka Biryani - Slow Cooked,4.1,₹200 for one,"Biryani, Desserts, Beverages",30 min,75+ orders placed from here recently
+122,Umpire Chicken County,3.4,₹200 for one,"Rolls, Chinese, North Indian, Biryani",49 min,1525+ orders placed from here recently
+123,Anugraha Militari Hotel,3.5,₹100 for one,"South Indian, Chinese",43 min,1250+ orders placed from here recently
+124,Biryani Mount,3.4,₹100 for one,"Biryani, North Indian",40 min,50+ orders placed from here recently
+125,Haka,4.0,₹100 for one,"Chinese, Momos",34 min,925+ orders placed from here recently
+126,Amul Ice Cream Parlour,4.3,₹100 for one,"Ice Cream, Desserts, Beverages, Shake",36 min,1450+ orders placed from here recently
+127,Bangalikhana,4.1,₹150 for one,"Bengali, Seafood",45 min,2800+ orders placed from here recently
+128,The Rasoiya Street,3.8,₹150 for one,"North Indian, Continental, Mexican, Chinese, Desserts, Beverages",23 min,2150+ orders placed from here recently
+129,Kullad Cafe,3.8,₹150 for one,"North Indian, Fast Food, Street Food, Shake, Beverages",37 min,11600+ orders placed from here recently
+130,Chung Wah,4.1,₹150 for one,"Chinese, Thai, Asian, Sichuan",49 min,4500+ orders placed from here recently
+131,Social Delivery,4.1,₹350 for one,"North Indian, Chinese, Biryani, Pasta, Burger, Pizza, Kebab",39 min,1625+ orders placed from here recently
+132,Craving O Clock,4.3,₹350 for one,"Burger, Sandwich, Wraps, Street Food, Fast Food, Shake",37 min,9625+ orders placed from here recently
+133,Roti Sabji.Com,3.5,₹350 for one,"North Indian, Beverages, Rajasthani, Shake",32 min,1800+ orders placed from here recently
+134,Udupi Kitchen,3.4,₹350 for one,"South Indian, Chinese, Street Food, Desserts, Beverages, Shake, Sichuan",32 min,500+ orders placed from here recently
+135,Royal County,4.0,₹150 for one,"Biryani, North Indian, Mughlai, Seafood, Chinese, Sichuan",36 min,925+ orders placed from here recently
+136,Sri Krishna Sagar,3.7,₹150 for one,"South Indian, North Indian, Chinese, Fast Food, Street Food",36 min,1475+ orders placed from here recently
+137,Mandya Gowdru Donne Biryani,4.0,₹150 for one,"Biryani, South Indian, Chettinad",21 min,3575+ orders placed from here recently
+138,Sri Vishnu Grand,4.0,₹150 for one,"South Indian, North Indian, Chinese, Shake, Beverages",32 min,5475+ orders placed from here recently
+139,Royal Treat,4.0,₹100 for one,"North Indian, Chinese, Biryani",36 min,3175+ orders placed from here recently
+140,Cheesecake & Co.,4.3,₹100 for one,"Bakery, Desserts",35 min,5425+ orders placed from here recently
+141,Thalassery Restaurant Multi Cuisine,3.4,₹100 for one,"Kerala, North Indian, Seafood, Chinese, Sichuan",42 min,3500+ orders placed from here recently
+142,Rusbury Fresh Sweets And Savouries,4.1,₹100 for one,"North Indian, Mithai, Desserts",31 min,3475+ orders placed from here recently
+143,Aapni Rasoi,3.6,₹100 for one,"North Indian, Chinese",39 min,2950+ orders placed from here recently
+144,Savi Ruchi,4.2,₹100 for one,"North Indian, South Indian, Mughlai, Street Food, Chinese, Beverages",37 min,2175+ orders placed from here recently
+145,Savitha Family Restaurant,3.7,₹100 for one,"North Indian, Chinese, Seafood, Mughlai, Desserts, Beverages, Sichuan",37 min,2350+ orders placed from here recently
+146,Rotti Mane,4.1,₹100 for one,South Indian,51 min,1500+ orders placed from here recently
+147,Art of Delight,4.2,₹150 for one,"Ice Cream, Desserts, Waffle, Beverages",25 min,1075+ orders placed from here recently
+148,Goila Butter Chicken,4.0,₹150 for one,"North Indian, Mughlai, Biryani, Rolls",38 min,625+ orders placed from here recently
+149,Sri Pillaiyar Bhavan,4.2,₹150 for one,"South Indian, Chettinad, Beverages",43 min,3625+ orders placed from here recently
+150,Sagar Fast Food,4.1,₹150 for one,"South Indian, North Indian, Street Food, Chinese, Beverages, Shake",38 min,2825+ orders placed from here recently
+151,Hyderabad Magic,3.9,₹150 for one,"North Indian, Mughlai, Chinese",26 min,1100+ orders placed from here recently
+152,Donne Biryani,4.0,₹150 for one,"Biryani, South Indian",28 min,2150+ orders placed from here recently
+153,Malabar Mess,3.8,₹150 for one,"Kerala, South Indian, Seafood, Biryani",45 min,1675+ orders placed from here recently
+154,Mangala Bhavan,3.7,₹150 for one,"South Indian, Street Food, Chinese, North Indian",37 min,5925+ orders placed from here recently
+155,Salena And New Salena Food Center,3.4,₹100 for one,"North Indian, Biryani, Chinese, Sichuan",36 min,2300+ orders placed from here recently
+156,No Sugar Please!,4.3,₹100 for one,"Beverages, Juices, Healthy Food",28 min,3550+ orders placed from here recently
+157,Delhi Food Point,3.7,₹100 for one,"North Indian, Beverages",24 min,3000+ orders placed from here recently
+158,Dine Bell Restaurant,3.7,₹100 for one,"Chinese, North Indian, Biryani, Fast Food",41 min,1450+ orders placed from here recently
+159,Rumi,4.0,₹300 for one,"Awadhi, Mughlai, North Indian, Kebab, Desserts",59 min,3800+ orders placed from here recently
+160,Steve's Fast Food,4.1,₹300 for one,"Chinese, Momos, Seafood",47 min,1200+ orders placed from here recently
+161,Hotel Palace,4.0,₹300 for one,"South Indian, Biryani, Mughlai, North Indian, Chinese",22 min,800+ orders placed from here recently
+162,ITC Sunfeast Baked Creations,4.4,₹300 for one,"Bakery, Desserts, Fast Food",19 min,650+ orders placed from here recently
+163,Odia Khaiba,3.7,₹100 for one,"Odia, North Indian, Chinese, Seafood, Sichuan",47 min,1350+ orders placed from here recently
+164,Gowda's Nati Cafe,3.5,₹100 for one,"Biryani, South Indian, Chinese",35 min,1975+ orders placed from here recently
+165,Al Bawarchi Biryani,3.7,₹100 for one,"Biryani, North Indian, Chinese",20 min,2900+ orders placed from here recently
+166,New Kabab Plaza,4.2,₹100 for one,"North Indian, Chinese, Sichuan",36 min,1575+ orders placed from here recently
+167,Big Chow,3.6,₹200 for one,"Chinese, Thai, Sichuan",50 min,2850+ orders placed from here recently
+168,North Indian Bhukkads - NIB,4.0,₹200 for one,"North Indian, Chinese, Biryani, Desserts",30 min,3450+ orders placed from here recently
+169,Jai Bhavani Dhaba,3.8,₹200 for one,"North Indian, Chinese",55 min,150+ orders placed from here recently
+170,Desi Dhaba,3.7,₹200 for one,"North Indian, Chinese, Biryani",46 min,1000+ orders placed from here recently
+171,Basaveshwara Khanavali,3.5,₹50 for one,"South Indian, Street Food",14 min,75+ orders placed from here recently
+172,Taato Peero Momos,4.5,₹50 for one,"Tibetan, Momos",37 min,1850+ orders placed from here recently
+173,Thottathil Food House,3.7,₹50 for one,"Kerala, South Indian, Biryani, Shake, Juices, Beverages",40 min,3450+ orders placed from here recently
+174,The Blue Bawarchi Restaurant,3.3,₹50 for one,"Odia, Bengali, North Indian, Chinese, Biryani, Sichuan",72 min,575+ orders placed from here recently
+175,Millet Express,4.1,₹150 for one,"Healthy Food, South Indian, North Indian, Biryani",21 min,550+ orders placed from here recently
+176,Nirula's,3.8,₹150 for one,"Ice Cream, Momos, Desserts, Shake",30 min,275+ orders placed from here recently
+177,Mad Momos,3.9,₹150 for one,Momos,29 min,2375+ orders placed from here recently
+178,Jaipur Cafe,3.8,₹150 for one,"North Indian, Chinese, Sandwich, Street Food, Beverages",30 min,450+ orders placed from here recently
+179,Nanda's,3.9,₹200 for one,"Biryani, Andhra, North Indian, Chinese, Seafood",24 min,775+ orders placed from here recently
+180,Rolls Mania,4.2,₹200 for one,Rolls,44 min,2000+ orders placed from here recently
+181,Sri Vishnu Leela Veg,4.0,₹200 for one,"Chinese, Street Food, North Indian, South Indian, Biryani, Ice Cream, Desserts, Beverages",27 min,4025+ orders placed from here recently
+182,The Indian Food Story,4.1,₹200 for one,"North Indian, Biryani, Mughlai",34 min,5150+ orders placed from here recently
+183,Ammachiyude Adukkala,3.6,₹150 for one,South Indian,46 min,1350+ orders placed from here recently
+184,Madurai Parotta House,3.4,₹150 for one,"North Indian, South Indian, Chinese",38 min,1075+ orders placed from here recently
+185,Sahukar Biryani - Biryani Royal,4.0,₹150 for one,Biryani,26 min,2575+ orders placed from here recently
+186,Om Meal And Paratha Junction,3.6,₹150 for one,"North Indian, Street Food, Chinese, Beverages",53 min,1700+ orders placed from here recently
+187,Raichur Biryani House,3.9,₹150 for one,"North Indian, Biryani, Mughlai, Chinese, Rolls",16 min,1600+ orders placed from here recently
+188,MISU,3.9,₹150 for one,"Asian, Japanese, Thai",60 min,475+ orders placed from here recently
+189,Sorbetto,4.3,₹150 for one,"Ice Cream, Desserts, Shake, Pancake, Beverages",43 min,700+ orders placed from here recently
+190,32 Degree,4.2,₹150 for one,"Beverages, Juices, Sandwich",38 min,6925+ orders placed from here recently
+191,Ghar Da Swaad,3.7,₹150 for one,"North Indian, Chinese",37 min,1625+ orders placed from here recently
+192,Curries & Pickles,3.5,₹150 for one,"Andhra, Biryani, Chinese, North Indian, South Indian",45 min,1325+ orders placed from here recently
+193,Maedah,3.4,₹150 for one,"North Indian, Chinese, Arabian, Mughlai, Kebab, Beverages, Desserts",44 min,1975+ orders placed from here recently
+194,Dhansagar Restaurant,4.0,₹150 for one,"North Indian, Mughlai, Chinese, Biryani, Seafood, Shake, Sichuan",32 min,1300+ orders placed from here recently
+195,Prem's Biriyani,3.5,₹100 for one,"Biryani, Fast Food, North Indian",42 min,450+ orders placed from here recently
+196,Sri Aakash Punjabi Dhaba,4.1,₹100 for one,"North Indian, Chinese, Biryani, Mughlai",33 min,1925+ orders placed from here recently
+197,Vaigai Vilas,3.3,₹100 for one,"Fast Food, Street Food, Chinese, South Indian, Biryani, Beverages",37 min,725+ orders placed from here recently
+198,Momo's Man & More,3.9,₹100 for one,"Momos, Rolls",29 min,900+ orders placed from here recently
+199,Andhra Meals Menu,3.9,₹250 for one,Andhra,29 min,1775+ orders placed from here recently
+200,Green Cravings,3.9,₹250 for one,"Healthy Food, Continental",21 min,175+ orders placed from here recently
+201,Kabab Magic Roll,3.6,₹250 for one,"Chinese, Fast Food, Rolls, BBQ",40 min,1125+ orders placed from here recently
+202,Tandoor Merchant,3.9,₹250 for one,"North Indian, Chinese, Fast Food, Hyderabadi, Andhra",34 min,800+ orders placed from here recently
+203,Mahesh Lunch Home,3.9,₹300 for one,"Seafood, Mangalorean, South Indian, North Indian, Continental, Desserts, Beverages",52 min,2000+ orders placed from here recently
+204,Andhra Kitchen,4.1,₹300 for one,"Andhra, Biryani",27 min,1225+ orders placed from here recently
+205,The Rush Restaurant,3.9,₹300 for one,"North Indian, Mughlai, Biryani, Chinese, Fast Food, Beverages",27 min,625+ orders placed from here recently
+206,Hungry Chang,3.5,₹300 for one,"Chinese, Fast Food, Sichuan",24 min,75+ orders placed from here recently
+207,Hao Chi,3.6,₹250 for one,"Vietnamese, Chinese, Sichuan",42 min,175+ orders placed from here recently
+208,South Magic,4.0,₹250 for one,South Indian,39 min,875+ orders placed from here recently
+209,Bob's Bar,4.1,₹250 for one,"South Indian, Finger Food, Desserts, Beverages",42 min,1525+ orders placed from here recently
+210,Basil Pizzeria,3.8,₹250 for one,"Pizza, Desserts, Beverages",27 min,325+ orders placed from here recently
+211,Luckhnow Street,4.0,₹200 for one,"Awadhi, Kebab, Biryani",38 min,1775+ orders placed from here recently
+212,Sardarji's Kitchen,4.0,₹200 for one,"North Indian, Rolls, Street Food",38 min,350+ orders placed from here recently
+213,The Betel Leaf Co - Originally from Bangalore,4.3,₹200 for one,Paan,33 min,600+ orders placed from here recently
+214,The Lassi Corner,3.6,₹200 for one,"Beverages, Sandwich, Fast Food, Street Food, Ice Cream, Desserts",27 min,75+ orders placed from here recently
+215,Bangarpet Chats,4.2,₹100 for one,Street Food,36 min,1050+ orders placed from here recently
+216,Malnad Donne Biriyani - MDB,4.1,₹100 for one,"South Indian, Biryani",35 min,900+ orders placed from here recently
+217,Uttara Karnatakada Jolada Rotti Angadi,4.3,₹100 for one,South Indian,35 min,825+ orders placed from here recently
+218,Ganesh Hotel,4.1,₹100 for one,South Indian,32 min,325+ orders placed from here recently
+219,Momo Rice Noodles,4.1,₹200 for one,"Momos, Chinese, Thai, Sichuan",39 min,775+ orders placed from here recently
+220,Udupi Upahar,4.0,₹200 for one,"South Indian, North Indian, Chinese, Fast Food, Desserts, Beverages, Biryani, Shake",26 min,1625+ orders placed from here recently
+221,Fabelle Chocolates,3.5,₹200 for one,"Desserts, Bakery",24 min,75+ orders placed from here recently
+222,Lungees Foods,3.8,₹200 for one,"Kerala, Biryani, South Indian",36 min,2375+ orders placed from here recently
+223,Abees Mess,3.9,₹150 for one,"South Indian, Chinese",37 min,1000+ orders placed from here recently
+224,Asian Momo Company,4.0,₹150 for one,"Momos, Chinese, Asian, Thai",40 min,3450+ orders placed from here recently
+225,Just Bake - Cakes & Confectioners,3.3,₹150 for one,"Bakery, Desserts",33 min,250+ orders placed from here recently
+226,Sai Jagannath Food And Chats Point,4.0,₹150 for one,"North Indian, Street Food, Chinese, South Indian",38 min,1575+ orders placed from here recently
+227,Qissa,3.9,₹300 for one,"Arabian, Lebanese, Turkish, Middle Eastern, Rolls, Beverages, Desserts",60 min,1825+ orders placed from here recently
+228,Hoskote Donne Biryani,3.7,₹300 for one,"Biryani, South Indian",30 min,1200+ orders placed from here recently
+229,Saiko Sushi House,3.6,₹300 for one,"Sushi, Japanese",41 min,150+ orders placed from here recently
+230,Sri Udupi Sagar,4.1,₹300 for one,"South Indian, Chinese",27 min,3175+ orders placed from here recently
+231,Swathi Restaurant,4.3,₹150 for one,"Mangalorean, North Indian, Chinese",44 min,450+ orders placed from here recently
+232,Say Cheese Cake,4.1,₹150 for one,"Bakery, Desserts, Shake",32 min,900+ orders placed from here recently
+233,Chocolate Bitter,3.4,₹150 for one,"Shake, Bakery",44 min,775+ orders placed from here recently
+234,Champaran Meat House,3.7,₹150 for one,"North Indian, Bihari",27 min,2100+ orders placed from here recently
+235,Artinci - Indulge Guilt Free!,3.9,₹150 for one,"Desserts, Ice Cream, Bakery",22 min,100+ orders placed from here recently
+236,Mega Biryani,4.3,₹150 for one,Biryani,33 min,75+ orders placed from here recently
+237,Mizo Kitchen,4.1,₹150 for one,"North Eastern, Chinese",35 min,1275+ orders placed from here recently
+238,Reddy's Restaurant,3.6,₹150 for one,"North Indian, Chinese, Mughlai, Andhra, Biryani",32 min,1250+ orders placed from here recently
+239,Sri Vishnu Grand,3.7,₹100 for one,"South Indian, North Indian, Chinese, Beverages, Street Food",28 min,1275+ orders placed from here recently
+240,Khichdi Tales,4.4,₹100 for one,"Healthy Food, North Indian, Beverages, Desserts",27 min,6025+ orders placed from here recently
+241,Awesome Foods,3.9,₹100 for one,"Biryani, North Indian",31 min,475+ orders placed from here recently
+242,BakesKing,4.4,₹100 for one,Bakery,39 min,1225+ orders placed from here recently
+243,Sri Ganesh Juice Junction,3.7,₹50 for one,"Beverages, Juices, Fast Food, Shake",43 min,1175+ orders placed from here recently
+244,Paratha Plaza,4.3,₹50 for one,North Indian,38 min,1125+ orders placed from here recently
+245,Nomad Pizza - Traveller Series,4.0,₹50 for one,"Pizza, Italian",31 min,1400+ orders placed from here recently
+246,The New Arsalan,3.9,₹50 for one,"Bengali, Biryani",37 min,1600+ orders placed from here recently
+247,Khai Khai,3.9,₹150 for one,"Bengali, North Indian, Biryani, Rolls, Continental, Street Food, Beverages",20 min,2025+ orders placed from here recently
+248,Mafuq Biryani,3.7,₹150 for one,"Biryani, North Indian, Desserts",34 min,1025+ orders placed from here recently
+249,The Chaat Cult,3.3,₹150 for one,"Street Food, North Indian, Desserts",53 min,125+ orders placed from here recently
+250,Juice Junction Food Court,3.7,₹150 for one,"Beverages, Juices, Fast Food, Shake",18 min,950+ orders placed from here recently
+251,The Salad Studio,4.3,₹250 for one,"Salad, Healthy Food, Sandwich, Juices",38 min,1625+ orders placed from here recently
+252,Copper Chimney,3.8,₹250 for one,"Mughlai, Kebab, North Indian, Biryani",34 min,450+ orders placed from here recently
+253,New York Waffles & Dinges,3.7,₹250 for one,"Waffle, Bakery, Ice Cream, Desserts, Beverages",41 min,400+ orders placed from here recently
+254,Puneri Katta,4.2,₹250 for one,"Maharashtrian, Street Food",37 min,4950+ orders placed from here recently
+255,Tadka Punjab Da,3.6,₹200 for one,"North Indian, Chinese",44 min,350+ orders placed from here recently
+256,Mamaji Pav Bhaji,3.4,₹200 for one,Street Food,20 min,325+ orders placed from here recently
+257,Tamilian Lunch House - Since 1973,4.0,₹200 for one,"Tamil, South Indian",28 min,2575+ orders placed from here recently
+258,Khichdi Kahani,3.4,₹200 for one,North Indian,19 min,725+ orders placed from here recently
+259,Cold Stone Creamery,4.4,₹200 for one,"Ice Cream, Desserts, Waffle, Shake, Beverages",32 min,850+ orders placed from here recently
+260,Magic Chef Restaurant,3.6,₹200 for one,"Rolls, Chinese, Sichuan, Biryani, North Indian, Salad, Beverages",40 min,525+ orders placed from here recently
+261,Cake Factory,3.5,₹200 for one,"Bakery, Desserts",25 min,500+ orders placed from here recently
+262,Sri Shiva Shakthi Veg,3.9,₹200 for one,"South Indian, North Indian, Chinese",35 min,1100+ orders placed from here recently
+263,Basaveshwara Khanavali,4.3,₹100 for one,South Indian,18 min,1425+ orders placed from here recently
+264,Combo Plate,3.6,₹100 for one,"Chinese, Fast Food, Biryani, Seafood, Sichuan",36 min,175+ orders placed from here recently
+265,Darjeeling Hot Momos,4.1,₹100 for one,Momos,37 min,2250+ orders placed from here recently
+266,Bhojohori Manna,3.9,₹100 for one,"Bengali, Desserts",40 min,1775+ orders placed from here recently
+267,Burgers@79,3.1,₹100 for one,"Fast Food, Burger",36 min,250+ orders placed from here recently
+268,Baba Ganoush Cafe,3.6,₹100 for one,"Fast Food, Lebanese, Beverages",37 min,175+ orders placed from here recently
+269,Havmor Ice Cream,4.0,₹100 for one,"Desserts, Ice Cream, Beverages",37 min,225+ orders placed from here recently
+270,Thanco's Natural Ice Cream,3.7,₹100 for one,"Ice Cream, Beverages, Desserts",28 min,100+ orders placed from here recently
+271,Indus Family Restaurant,4.0,₹200 for one,"North Indian, Biryani, Chinese",29 min,275+ orders placed from here recently
+272,Maa Ki Thali By Sinha's,4.1,₹200 for one,"North Indian, Bihari",42 min,2175+ orders placed from here recently
+273,Udupi Swadishta Veg,4.1,₹200 for one,"South Indian, North Indian, Chinese, Street Food, Beverages, Juices",37 min,675+ orders placed from here recently
+274,Cake Concepts,3.9,₹200 for one,"Desserts, Bakery",51 min,675+ orders placed from here recently
+275,Burma Burma,4.2,₹500 for one,"Salad, Healthy Food, Asian, Chinese, Burmese, Bubble Tea, Beverages",53 min,1500+ orders placed from here recently
+276,Golden Sidra Hotel,4.0,₹500 for one,"Kebab, Mughlai, North Indian, Chinese, Biryani, Beverages",23 min,625+ orders placed from here recently
+277,Aunty's Foods,4.3,₹500 for one,South Indian,51 min,1225+ orders placed from here recently
+278,SLV Mulbagal Dosa,3.4,₹500 for one,South Indian,38 min,650+ orders placed from here recently
+279,Fresh Cane Juice,4.3,₹50 for one,"Juices, Beverages",14 min,2425+ orders placed from here recently
+280,Karnataka Donne Biriyani,4.0,₹50 for one,"Biryani, South Indian",46 min,125+ orders placed from here recently
+281,Tibb's Frankie - Serving Rolls Since 1969,3.9,₹50 for one,Rolls,37 min,850+ orders placed from here recently
+282,Big Wong,4.1,₹50 for one,"Chinese, Asian, Momos, Sushi, Rolls, Thai, Seafood, Beverages",41 min,1350+ orders placed from here recently
+283,Coorg Pork Joint,3.7,₹300 for one,"Mangalorean, North Indian, Chinese, Street Food, Beverages",18 min,650+ orders placed from here recently
+284,Dal Roti,3.9,₹300 for one,North Indian,35 min,50+ orders placed from here recently
+285,Andhra Mess,3.6,₹300 for one,"Andhra, Biryani, Chinese, Seafood",51 min,225+ orders placed from here recently
+286,Atthemane's Biriyani Palace,3.8,₹300 for one,"North Indian, Mughlai, Chinese, Andhra, Hyderabadi, Seafood",22 min,725+ orders placed from here recently
+287,Tasty Shawarma Rolls,3.5,₹150 for one,"Lebanese, Chinese, Sichuan",38 min,1325+ orders placed from here recently
+288,Food Adda,3.5,₹150 for one,"Fast Food, Sandwich, Pizza, Burger, Beverages",42 min,300+ orders placed from here recently
+289,Chavadi,3.9,₹150 for one,"Continental, Mangalorean, Italian, South Indian, North Indian, Seafood, Beverages, Desserts",49 min,925+ orders placed from here recently
+290,Nizza Pizza,3.9,₹150 for one,Pizza,31 min,550+ orders placed from here recently
+291,Drunken Monkey,3.3,₹250 for one,Beverages,31 min,400+ orders placed from here recently
+292,Delite Chaat House,3.8,₹250 for one,"Street Food, Gujarati, Shake",27 min,1800+ orders placed from here recently
+293,Homely Hut,3.9,₹250 for one,"Healthy Food, North Indian",18 min,1925+ orders placed from here recently
+294,Gorbandh Sweets & Snacks,3.9,₹250 for one,"Street Food, North Indian, Mithai",29 min,2475+ orders placed from here recently
+295,Gudbud,4.1,₹150 for one,"Ice Cream, Shake, Beverages",29 min,2000+ orders placed from here recently
+296,Phobidden Fruit,4.4,₹150 for one,"Vietnamese, Asian, Desserts",49 min,1025+ orders placed from here recently
+297,Kolkata Foods,4.2,₹150 for one,"Chinese, Seafood, Rolls, Fast Food",29 min,600+ orders placed from here recently
+298,Yummy Paratha's Only,3.3,₹150 for one,"North Indian, Chinese, Street Food, Mithai, Beverages",52 min,525+ orders placed from here recently
+299,Platform.65,3.7,₹300 for one,"North Indian, Mughlai, Chinese, South Indian, Biryani, Beverages, Desserts, Ice Cream",54 min,475+ orders placed from here recently
+300,Grill Daddy,4.2,₹300 for one,"Continental, Italian, Asian, Steak, Sandwich, Burger, Beverages, Desserts",37 min,3400+ orders placed from here recently
+301,Anupam's Coast II Coast,3.9,₹300 for one,"Seafood, Mangalorean, North Indian, Chinese, Beverages, Sichuan",40 min,1475+ orders placed from here recently
+302,Flavours Hut,3.6,₹300 for one,"Kerala, North Indian, Chinese, Seafood, Biryani, Street Food",27 min,1100+ orders placed from here recently
+303,Dessert Dash,3.7,₹300 for one,"Bakery, Desserts",43 min,300+ orders placed from here recently
+304,Hive Honey Cake,4.0,₹300 for one,Bakery,27 min,300+ orders placed from here recently
+305,Signature Wraps & Rolls By Faasos,3.8,₹300 for one,"Rolls, Wraps",20 min,50+ orders placed from here recently
+306,Temperature,4.2,₹300 for one,"Street Food, Fast Food, Beverages, Desserts",21 min,4200+ orders placed from here recently
+307,Hot Cafe,3.6,₹100 for one,"Chinese, Beverages, Shake",35 min,350+ orders placed from here recently
+308,Fat Tiger,3.7,₹100 for one,"Momos, Burger, Pizza, Shake, Fast Food, Beverages",16 min,400+ orders placed from here recently
+309,Sri Balaji Mess,3.8,₹100 for one,"Chinese, North Indian",46 min,250+ orders placed from here recently
+310,89 Express Dhaba,3.6,₹100 for one,North Indian,37 min,350+ orders placed from here recently
+311,Sardar G Malai Chaap Junction,3.9,₹200 for one,"North Indian, Rolls, Fast Food",36 min,1525+ orders placed from here recently
+312,Irani Std Tea,4.0,₹200 for one,"Street Food, Fast Food, Beverages",21 min,4950+ orders placed from here recently
+313,Toppings Town Pizza,3.4,₹200 for one,"Pizza, Fast Food",43 min,4950+ orders placed from here recently
+314,Orange Bake And Juice,4.1,₹200 for one,"Bakery, Desserts",30 min,1100+ orders placed from here recently
+315,Krishna Vaibhava,4.0,₹50 for one,"Street Food, North Indian, South Indian, Sichuan, Chinese, Ice Cream, Beverages",41 min,175+ orders placed from here recently
+316,RJ 14 Kitchen,3.3,₹50 for one,"Rajasthani, North Indian",49 min,275+ orders placed from here recently
+317,The Pulkawala,3.6,₹50 for one,"Street Food, North Indian",42 min,550+ orders placed from here recently
+318,Iyengar Amma Pastries,3.9,₹50 for one,"Bakery, Mithai",38 min,300+ orders placed from here recently
+319,Raghavendra Tiffin,4.2,₹100 for one,South Indian,19 min,2375+ orders placed from here recently
+320,Big Mishra Pedha,4.2,₹100 for one,"Sandwich, Street Food, Mithai",37 min,800+ orders placed from here recently
+321,Hotel Nandhin,4.3,₹100 for one,"Andhra, North Indian, Chinese, Biryani, Beverages",53 min,350+ orders placed from here recently
+322,Mysore Military Hotel,4.0,₹100 for one,"Biryani, Andhra",30 min,450+ orders placed from here recently
+323,EkDum Donne Biryani,4.3,₹350 for one,"Biryani, Kebab",42 min,2150+ orders placed from here recently
+324,Biryani Leaf,3.9,₹350 for one,"Biryani, Chinese, North Indian",35 min,225+ orders placed from here recently
+325,Swad 'E' Punjab,3.4,₹350 for one,"North Indian, Chinese, Fast Food, Italian, Beverages, Sichuan",51 min,325+ orders placed from here recently
+326,Lama’s Cafe,3.8,₹350 for one,"Nepalese, Tibetan, Momos, Beverages",26 min,700+ orders placed from here recently
+327,Bearful,3.7,₹300 for one,"North Indian, Mughlai, Continental, Chinese, Biryani, Kebab, Desserts, Beverages",46 min,1075+ orders placed from here recently
+328,Khan Saheb Grills And Rolls,3.8,₹300 for one,"Rolls, North Indian, Mughlai",26 min,1100+ orders placed from here recently
+329,La Roi,4.1,₹300 for one,"Cafe, Bakery, Desserts, Italian",24 min,875+ orders placed from here recently
+330,The Coorg Food Co.,4.3,₹300 for one,South Indian,40 min,700+ orders placed from here recently
+331,Zubaan,3.6,₹200 for one,"Arabian, Turkish, Lebanese, Healthy Food",40 min,375+ orders placed from here recently
+332,Abhiruchi Restaurant,3.8,₹200 for one,"Andhra, Biryani, North Indian, Chinese",35 min,350+ orders placed from here recently
+333,Knight Bite,3.6,₹200 for one,"Burger, Chinese, Fast Food, Desserts, Beverages",49 min,300+ orders placed from here recently
+334,Namaste India,3.6,₹200 for one,North Indian,34 min,400+ orders placed from here recently
+335,Roti Curry & Co,3.5,₹300 for one,North Indian,51 min,100+ orders placed from here recently
+336,DVG Benne Dosa,3.9,₹300 for one,"South Indian, Street Food",41 min,825+ orders placed from here recently
+337,Udupi Gokula,3.5,₹300 for one,"North Indian, Chinese, South Indian, Beverages, Shake",29 min,675+ orders placed from here recently
+338,O2 Juice Bar,4.1,₹300 for one,"Juices, Beverages, Healthy Food, Desserts",22 min,Restaurant partner follows WHO protocol
+339,Sri Sai Rotti Mane,3.7,₹150 for one,South Indian,46 min,300+ orders placed from here recently
+340,Travancore Kitchen,4.1,₹150 for one,"Kerala, South Indian, Biryani",44 min,1625+ orders placed from here recently
+341,Vijay Masth Biriyani House,3.7,₹150 for one,"Biryani, Chinese, Sichuan",33 min,125+ orders placed from here recently
+342,Seven 2 Eleven Resto Cafe,4.3,₹150 for one,"North Indian, South Indian, Chinese",52 min,575+ orders placed from here recently
+343,Sri Rajasthani Foods,3.3,₹150 for one,"North Indian, Chinese, Rajasthani, Desserts, Beverages",26 min,100+ orders placed from here recently
+344,Momo Ninja,3.4,₹150 for one,"Momos, Chinese, Fast Food, Sandwich, Beverages",49 min,75+ orders placed from here recently
+345,Mugs N Burgers,3.4,₹150 for one,"Fast Food, Chinese, Italian, Desserts, Beverages, Burger, Shake",45 min,225+ orders placed from here recently
+346,Dunkel Kitchen - Food Court From Cloud,New,₹150 for one,"Biryani, Chinese, North Indian, Fast Food",39 min,225+ orders placed from here recently
+347,Hunan,4.0,₹250 for one,"Asian, Sichuan",40 min,1500+ orders placed from here recently
+348,Le Gateau - The Cake Shop,4.0,₹250 for one,"Bakery, Desserts",56 min,1500+ orders placed from here recently
+349,Estaa Sweets,4.2,₹250 for one,"Mithai, Street Food, Desserts",56 min,1500+ orders placed from here recently
+350,Connie's Steakhouse Kitchen,3.8,₹250 for one,"Steak, Continental, American, Burger, Desserts, Pasta, Seafood, Beverages",56 min,1500+ orders placed from here recently
+351,Colombo Idli House,4.2,₹250 for one,South Indian,56 min,1500+ orders placed from here recently
+352,Flying Kombucha,3.6,₹250 for one,Beverages,56 min,1500+ orders placed from here recently
+353,Crave By Leena,4.2,₹100 for one,"Bakery, Desserts",56 min,1500+ orders placed from here recently
+354,Carnival Cakes & Breads,-,₹100 for one,"Bakery, Street Food",56 min,1500+ orders placed from here recently
+355,The Cookie Stack,-,₹100 for one,"Bakery, Desserts",56 min,1500+ orders placed from here recently
+356,Bäcker,-,₹100 for one,Bakery,56 min,1500+ orders placed from here recently
+357,Hustle,3.6,₹350 for one,"Cafe, Coffee, Tea, Pizza, Pasta, Sandwich, Fast Food, Continental",56 min,1500+ orders placed from here recently
+358,Whitecaps,-,₹350 for one,"Bakery, Desserts, Beverages, Shake",56 min,1500+ orders placed from here recently
+359,Whitecaps,-,₹350 for one,"Bakery, Desserts, Beverages, Shake",56 min,1500+ orders placed from here recently
+360,Whitecaps,-,₹350 for one,"Bakery, Desserts, Beverages, Shake",56 min,1500+ orders placed from here recently
+361,Whitecaps,-,₹350 for one,"Bakery, Desserts, Beverages, Shake",56 min,1500+ orders placed from here recently
+362,Whitecaps,-,₹350 for one,"Bakery, Desserts, Beverages, Shake",56 min,1500+ orders placed from here recently
+363,Whitecaps,-,₹350 for one,"Bakery, Desserts, Beverages, Shake",56 min,1500+ orders placed from here recently
